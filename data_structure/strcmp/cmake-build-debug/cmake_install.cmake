@@ -1,4 +1,4 @@
-# Install script for directory: /Users/gibson/coding/data_structure/data_structure/strcpy
+# Install script for directory: /Users/gibson/CLionProjects/strcmp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/gibson/coding/data_structure/data_structure/strcpy/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/gibson/CLionProjects/strcmp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,3 +1,3 @@
-/Users/gibson/CLionProjects/lianxi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/gibson/CLionProjects/lianxi/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/gibson/CLionProjects/lianxi/cmake-build-debug/CMakeFiles/lianxi.dir
+/Users/gibson/coding/data_structure/data_structure/strcpy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gibson/coding/data_structure/data_structure/strcpy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gibson/coding/data_structure/data_structure/strcpy/cmake-build-debug/CMakeFiles/lianxi.dir

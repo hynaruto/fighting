@@ -44,21 +44,21 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/gibson/coding/data_structure/data_structure/strcpy
+CMAKE_SOURCE_DIR = /Users/gibson/CLionProjects/strcmp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/gibson/coding/data_structure/data_structure/strcpy/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/gibson/CLionProjects/strcmp/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/lianxi.dir/all
+all: CMakeFiles/strcmp.dir/all
 
 .PHONY : all
 
 # The main recursive "clean" target.
-clean: CMakeFiles/lianxi.dir/clean
+clean: CMakeFiles/strcmp.dir/clean
 
 .PHONY : clean
 
@@ -68,31 +68,31 @@ preinstall:
 .PHONY : preinstall
 
 #=============================================================================
-# Target rules for target CMakeFiles/lianxi.dir
+# Target rules for target CMakeFiles/strcmp.dir
 
 # All Build rule for target.
-CMakeFiles/lianxi.dir/all:
-	$(MAKE) -f CMakeFiles/lianxi.dir/build.make CMakeFiles/lianxi.dir/depend
-	$(MAKE) -f CMakeFiles/lianxi.dir/build.make CMakeFiles/lianxi.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gibson/coding/data_structure/data_structure/strcpy/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target lianxi"
-.PHONY : CMakeFiles/lianxi.dir/all
+CMakeFiles/strcmp.dir/all:
+	$(MAKE) -f CMakeFiles/strcmp.dir/build.make CMakeFiles/strcmp.dir/depend
+	$(MAKE) -f CMakeFiles/strcmp.dir/build.make CMakeFiles/strcmp.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gibson/CLionProjects/strcmp/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target strcmp"
+.PHONY : CMakeFiles/strcmp.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/lianxi.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gibson/coding/data_structure/data_structure/strcpy/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/lianxi.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gibson/coding/data_structure/data_structure/strcpy/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/lianxi.dir/rule
+CMakeFiles/strcmp.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gibson/CLionProjects/strcmp/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/strcmp.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gibson/CLionProjects/strcmp/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/strcmp.dir/rule
 
 # Convenience name for target.
-lianxi: CMakeFiles/lianxi.dir/rule
+strcmp: CMakeFiles/strcmp.dir/rule
 
-.PHONY : lianxi
+.PHONY : strcmp
 
 # clean rule for target.
-CMakeFiles/lianxi.dir/clean:
-	$(MAKE) -f CMakeFiles/lianxi.dir/build.make CMakeFiles/lianxi.dir/clean
-.PHONY : CMakeFiles/lianxi.dir/clean
+CMakeFiles/strcmp.dir/clean:
+	$(MAKE) -f CMakeFiles/strcmp.dir/build.make CMakeFiles/strcmp.dir/clean
+.PHONY : CMakeFiles/strcmp.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

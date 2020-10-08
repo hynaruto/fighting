@@ -1,0 +1,3 @@
+/Users/gibson/CLionProjects/strcmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gibson/CLionProjects/strcmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gibson/CLionProjects/strcmp/cmake-build-debug/CMakeFiles/strcmp.dir

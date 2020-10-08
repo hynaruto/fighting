@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/gibson/coding/data_structure/data_structure/strcpy/main.cpp
+/Users/gibson/CLionProjects/strcmp/main.cpp
 stdio.h
 -
 assert.h
