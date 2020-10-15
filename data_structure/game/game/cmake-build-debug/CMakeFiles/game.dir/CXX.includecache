@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gibson/CLionProjects/game/game.cpp
+game.h
+/Users/gibson/CLionProjects/game/game.h
+
+/Users/gibson/CLionProjects/game/game.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+cstring
+-
+tclDecls.h
+-
+
+/Users/gibson/CLionProjects/game/main.cpp
+game.h
+/Users/gibson/CLionProjects/game/game.h
+
