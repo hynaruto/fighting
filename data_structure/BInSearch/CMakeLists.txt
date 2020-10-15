@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
-project(test)
+project(text)
 
-set(CMAKE_CXX_STANDARD 98)
+set(CMAKE_CXX_STANDARD 14)
 
-add_executable(test main.cpp)
+add_executable(text main.cpp)

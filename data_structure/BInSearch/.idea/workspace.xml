@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="test" targetName="test" />
+      <config projectName="text" targetName="text" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c8e9230-3c59-469c-89c2-0a4549940d71" name="Default Changelist" comment="" />
+    <list default="true" id="5c45dbcf-eb43-4f3d-985e-38ccb6a5c253" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +22,10 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
-  <component name="ProjectId" id="1irxe0JXXBH4EcZULSFTNhhXixH" />
+  <component name="ProjectId" id="1icdbIxbYAk3nhn30E0M8OI30Zf" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,7 +40,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="test" RUN_TARGET_NAME="test">
+    <configuration name="text" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="text" TARGET_NAME="text" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="text" RUN_TARGET_NAME="text">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -50,14 +51,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c8e9230-3c59-469c-89c2-0a4549940d71" name="Default Changelist" comment="" />
-      <created>1602679603042</created>
+      <changelist id="5c45dbcf-eb43-4f3d-985e-38ccb6a5c253" name="Default Changelist" comment="" />
+      <created>1602210883689</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602679603042</updated>
-      <workItem from="1602679604420" duration="249000" />
-      <workItem from="1602680410887" duration="7000" />
-      <workItem from="1602680605364" duration="7000" />
+      <updated>1602210883689</updated>
+      <workItem from="1602210885061" duration="263000" />
+      <workItem from="1602301645990" duration="619000" />
+      <workItem from="1602424634799" duration="2345000" />
+      <workItem from="1602427121823" duration="7000" />
+      <workItem from="1602554934653" duration="599000" />
+      <workItem from="1602581488576" duration="39000" />
+      <workItem from="1602585168890" duration="10011000" />
+      <workItem from="1602646859269" duration="133000" />
+      <workItem from="1602647014653" duration="602000" />
+      <workItem from="1602675357582" duration="2922000" />
+      <workItem from="1602771504725" duration="741000" />
+      <workItem from="1602772651313" duration="10000" />
+      <workItem from="1602772713260" duration="3000" />
+      <workItem from="1602772720686" duration="4000" />
+      <workItem from="1602772859183" duration="13000" />
     </task>
     <servers />
   </component>
