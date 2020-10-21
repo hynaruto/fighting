@@ -116,7 +116,36 @@ void ModifyContact(struct Contact* ps)
     }
 }
 
+static char* my_strcpy(char* dest, const char* src)
+{
+    assert(dest != NULL);
+    assert(src != NULL);
+    char* ret = dest;
+    //拷贝src指向的字符串到dest指向的空间，包含'\0'.
+    while (*dest++ = *src++)
+    {
+        ;
+    }
+    //返回目的空间的起始值。
+    return ret;
+
+}
+
 void SortContact(const struct Contact* ps)
 {
-    //冒泡排序
+    char * tmp;
+    char name[MAX_NAME];
+    printf("即将按照姓名首字母排序!\n");
+    for (int i = 0;i < ps ->size - 1;i++)
+    {
+        for (int j = j + 1;j < ps ->size; j++)
+        {
+            if (strcmp(ps ->data[i].name,ps ->data[j].name) < 0)
+            {
+                my_strcpy(tmp,ps ->data[i].name);
+                my_strcpy(ps ->data[i].name,ps ->data[j].name);
+                my_strcpy(ps ->data[j].name,tmp);
+            }
+        }
+    }
 }

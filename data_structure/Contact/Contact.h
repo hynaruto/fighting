@@ -14,6 +14,7 @@
 #define MAX_ADDR 30
 #include <stdio.h>
 #include <string.h>
+#include <assert.h>
 
 enum Option
 {
