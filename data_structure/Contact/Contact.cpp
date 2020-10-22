@@ -52,9 +52,10 @@ static int FindbyName(const struct Contact *ps, char name[MAX_NAME])
     for (int i = 0;i < ps ->size;i++) {
         if (strcmp((ps->data[i].name), name) == 0) {
             break;
+        } else{
+            return -1;
         }
     }
-    return -1;
 }
 
 void DelContact(struct Contact* ps)
