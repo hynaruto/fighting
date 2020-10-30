@@ -63,7 +63,6 @@ void ComputerMove(char board[][COL],int row,int col)
        }
    }
 }
-
 //判断
 char Judge(char board[][COL],int row,int col)
 {
@@ -147,5 +146,6 @@ void Game()
         default:
             break;
     }
+    ShowBoard(board,ROW,COL);
 
 }
