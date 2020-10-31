@@ -106,12 +106,24 @@ char Judge(char board[][COL],int row,int col)
 //游戏实现
 void Game()
 {
+
     char board[ROW][COL];
     //随机数种子
     srand((unsigned long)time(NULL));
     //棋盘初始化
     memset(board,' ', sizeof(board));
     char win = '\0';
+    //
+    int x = rand() % 10;
+    int y = 0;
+    puts("请输入一个小于等于10的整数！");
+    scanf("%d",&y);
+    if (x > y)
+    {
+        ComputerMove(board,ROW,COL);
+    } else{
+        PlayerMove(board,ROW,COL);
+    }
     do{
         //打印棋盘
         ShowBoard(board,ROW,COL);
