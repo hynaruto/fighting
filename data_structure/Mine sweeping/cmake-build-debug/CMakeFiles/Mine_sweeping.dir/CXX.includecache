@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gibson/CLionProjects/Mine sweeping/Mine sweeping.cpp
+Mine sweeping.h
+/Users/gibson/CLionProjects/Mine sweeping/Mine sweeping.h
+
+/Users/gibson/CLionProjects/Mine sweeping/Mine sweeping.h
+stdio.h
+-
+cstring
+-
+time.h
+-
+cstdlib
+-
+
