@@ -44,21 +44,21 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/gibson/coding/data_structure/data_structure/BinSearch
+CMAKE_SOURCE_DIR = "/Users/gibson/CLionProjects/LeetCode(16)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/gibson/coding/data_structure/data_structure/BinSearch/cmake-build-debug
+CMAKE_BINARY_DIR = "/Users/gibson/CLionProjects/LeetCode(16)/cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/text.dir/all
+all: CMakeFiles/LeetCode_16_.dir/all
 
 .PHONY : all
 
 # The main recursive "clean" target.
-clean: CMakeFiles/text.dir/clean
+clean: CMakeFiles/LeetCode_16_.dir/clean
 
 .PHONY : clean
 
@@ -68,31 +68,31 @@ preinstall:
 .PHONY : preinstall
 
 #=============================================================================
-# Target rules for target CMakeFiles/text.dir
+# Target rules for target CMakeFiles/LeetCode_16_.dir
 
 # All Build rule for target.
-CMakeFiles/text.dir/all:
-	$(MAKE) -f CMakeFiles/text.dir/build.make CMakeFiles/text.dir/depend
-	$(MAKE) -f CMakeFiles/text.dir/build.make CMakeFiles/text.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gibson/coding/data_structure/data_structure/BinSearch/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target text"
-.PHONY : CMakeFiles/text.dir/all
+CMakeFiles/LeetCode_16_.dir/all:
+	$(MAKE) -f CMakeFiles/LeetCode_16_.dir/build.make CMakeFiles/LeetCode_16_.dir/depend
+	$(MAKE) -f CMakeFiles/LeetCode_16_.dir/build.make CMakeFiles/LeetCode_16_.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/gibson/CLionProjects/LeetCode(16)/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target LeetCode_16_"
+.PHONY : CMakeFiles/LeetCode_16_.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/text.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gibson/coding/data_structure/data_structure/BinSearch/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/text.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gibson/coding/data_structure/data_structure/BinSearch/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/text.dir/rule
+CMakeFiles/LeetCode_16_.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/gibson/CLionProjects/LeetCode(16)/cmake-build-debug/CMakeFiles" 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LeetCode_16_.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/gibson/CLionProjects/LeetCode(16)/cmake-build-debug/CMakeFiles" 0
+.PHONY : CMakeFiles/LeetCode_16_.dir/rule
 
 # Convenience name for target.
-text: CMakeFiles/text.dir/rule
+LeetCode_16_: CMakeFiles/LeetCode_16_.dir/rule
 
-.PHONY : text
+.PHONY : LeetCode_16_
 
 # clean rule for target.
-CMakeFiles/text.dir/clean:
-	$(MAKE) -f CMakeFiles/text.dir/build.make CMakeFiles/text.dir/clean
-.PHONY : CMakeFiles/text.dir/clean
+CMakeFiles/LeetCode_16_.dir/clean:
+	$(MAKE) -f CMakeFiles/LeetCode_16_.dir/build.make CMakeFiles/LeetCode_16_.dir/clean
+.PHONY : CMakeFiles/LeetCode_16_.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

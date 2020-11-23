@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
+  "C"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/gibson/coding/data_structure/data_structure/BinSearch/main.cpp" "/Users/gibson/coding/data_structure/data_structure/BinSearch/cmake-build-debug/CMakeFiles/text.dir/main.cpp.o"
+set(CMAKE_DEPENDS_CHECK_C
+  "/Users/gibson/CLionProjects/LeetCode(16)/main.c" "/Users/gibson/CLionProjects/LeetCode(16)/cmake-build-debug/CMakeFiles/LeetCode_16_.dir/main.c.o"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.
