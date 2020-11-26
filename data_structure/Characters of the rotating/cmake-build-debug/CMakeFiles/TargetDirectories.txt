@@ -1,0 +1,3 @@
+/Users/gibson/CLionProjects/Characters of the rotating/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gibson/CLionProjects/Characters of the rotating/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gibson/CLionProjects/Characters of the rotating/cmake-build-debug/CMakeFiles/Characters_of_the_rotating.dir
