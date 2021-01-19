@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gibson/CLionProjects/Single_List/Single_List.c
+Single_List.h
+/Users/gibson/CLionProjects/Single_List/Single_List.h
+
+/Users/gibson/CLionProjects/Single_List/Single_List.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+string.h
+-
+
