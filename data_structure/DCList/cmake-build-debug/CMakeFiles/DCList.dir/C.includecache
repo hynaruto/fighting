@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gibson/CLionProjects/DCList/DCList.c
+DCList.h
+/Users/gibson/CLionProjects/DCList/DCList.h
+
+/Users/gibson/CLionProjects/DCList/DCList.h
+stdio.h
+-
+assert.h
+-
+stdlib.h
+-
+
