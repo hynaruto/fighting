@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Stack_Sq.dir/main.c.o CMakeFiles/Stack_Sq.dir/Stack_Sq.c.o  -o Stack_Sq 
