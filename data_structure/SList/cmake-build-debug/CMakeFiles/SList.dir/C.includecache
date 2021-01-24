@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gibson/CLionProjects/SList/SList.c
+SList.h
+/Users/gibson/CLionProjects/SList/SList.h
+
+/Users/gibson/CLionProjects/SList/SList.h
+stdio.h
+-
+assert.h
+-
+stdlib.h
+-
+
