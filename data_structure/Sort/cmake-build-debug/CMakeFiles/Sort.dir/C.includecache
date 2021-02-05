@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gibson/CLionProjects/Sort/Sort.c
+Sort.h
+/Users/gibson/CLionProjects/Sort/Sort.h
+
+/Users/gibson/CLionProjects/Sort/Sort.h
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
