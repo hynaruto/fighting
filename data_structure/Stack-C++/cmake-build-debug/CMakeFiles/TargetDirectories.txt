@@ -1,0 +1,3 @@
+/Users/gibson/CLionProjects/Stack-C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gibson/CLionProjects/Stack-C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gibson/CLionProjects/Stack-C++/cmake-build-debug/CMakeFiles/Stack_C__.dir
