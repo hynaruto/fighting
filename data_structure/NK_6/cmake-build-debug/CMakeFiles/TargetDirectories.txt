@@ -1,0 +1,3 @@
+/Users/gibson/CLionProjects/NK_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gibson/CLionProjects/NK_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gibson/CLionProjects/NK_6/cmake-build-debug/CMakeFiles/NK_6.dir
