@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/udp.dir/udp_srv.cpp.o CMakeFiles/udp.dir/udp_cli.cpp.o  -o udp 
