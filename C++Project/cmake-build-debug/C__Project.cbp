@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C__Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gibson/CLionProjects/C++Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gibson/CLionProjects/C++Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gibson/CLionProjects/C++Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C__Project">
+				<Option output="/Users/gibson/CLionProjects/C++Project/cmake-build-debug/C__Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gibson/CLionProjects/C++Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__Project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C__Project/fast">
+				<Option output="/Users/gibson/CLionProjects/C++Project/cmake-build-debug/C__Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gibson/CLionProjects/C++Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 C__Project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gibson/CLionProjects/C++Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/Common.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/ftp_code.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/ftp_proto.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/ftp_proto.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/hash.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/hash.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/main.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/minftp.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/par_parent.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/par_parent.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/parseconf.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/parseconf.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/privsock.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/privsock.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/session.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/session.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/str.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/str.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/sysutil.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/sysutil.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/tunable.c">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/tunable.h">
+			<Option target="C__Project"/>
+		</Unit>
+		<Unit filename="/Users/gibson/CLionProjects/C++Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
